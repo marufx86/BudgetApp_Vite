@@ -72,12 +72,18 @@ The app is deployed on Vercel at [budgetplanner-vite.vercel.app](https://budgetp
 
 ![image](https://github.com/user-attachments/assets/ac2fb58e-5bbe-495f-96b0-1df93526ac95)
 
-
 ![image](https://github.com/user-attachments/assets/0f28341c-8bd5-4a81-9645-c5ebb3cff07c)
-
 
 ![image](https://github.com/user-attachments/assets/916d9b0d-6dc9-47e4-88f4-182668d0886c)
 
+
+**Mobile Preview**
+
+![Screenshot_2025-03-05-04-19-26-22_40deb401b9ffe8e1df2f1cc5ba480b12 1](https://github.com/user-attachments/assets/7a4bc532-682f-43c6-baf5-afc59f3141a8)
+
+![Screenshot_2025-03-05-04-19-42-07_40deb401b9ffe8e1df2f1cc5ba480b12 1](https://github.com/user-attachments/assets/b4f8710d-3796-442c-b642-6fe9931029fa)
+
+![Screenshot_2025-03-05-04-20-20-56 1](https://github.com/user-attachments/assets/0be1107b-0967-4d3d-b0a4-34bb1e087101)
 
 **Contributing:**
 
