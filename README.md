@@ -85,6 +85,53 @@ The app is deployed on Vercel at [budgetplanner-vite.vercel.app](https://budgetp
 
 ![Screenshot_2025-03-05-04-20-20-56 1](https://github.com/user-attachments/assets/0be1107b-0967-4d3d-b0a4-34bb1e087101)
 
+
+**Native Mobile App (Android) with Capacitor:**
+
+You can easily wrap your web app into a native Android app using Capacitor. Here are the steps:
+
+1.  **Install Capacitor:**
+
+    ```bash
+    npm install @capacitor/core @capacitor/cli
+    ```
+
+2.  **Initialize Capacitor:**
+
+    ```bash
+    npx cap init
+    ```
+
+    *   You'll be prompted for an app name and package ID (e.g., `com.example.budgetplanner`).
+
+3.  **Add the Android Platform:**
+
+    ```bash
+    npx cap add android
+    ```
+
+4.  **Copy Your Built Web App:**
+
+    ```bash
+    npm run build  # Make sure you have a production build of your web app.
+    npx cap copy
+    ```
+
+5.  **Open the Android Project in Android Studio:**
+
+    ```bash
+    npx cap open android
+    ```
+
+    *   This will open Android Studio. Build and run the app on an emulator or connected device.
+
+**Important Notes for Capacitor:**
+
+*   Ensure you have Android Studio installed and properly configured.
+*   Some time errors will pop up, run all the Capacitor related commands again, and you're good to go.
+*   Refer to the official Capacitor documentation for the most up-to-date information: [https://capacitorjs.com/docs](https://capacitorjs.com/docs)
+
+
 **Contributing:**
 
 Contributions are welcome! Please follow these guidelines:
